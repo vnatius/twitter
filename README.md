@@ -1,2 +1,2 @@
 # twitter
-https://vicnatiustwitterlogin.netlify.app/
+https://twitterlogclone.netlify.app/
